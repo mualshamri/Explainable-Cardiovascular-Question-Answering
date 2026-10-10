@@ -1,0 +1,15 @@
+numpy
+pandas
+torch
+spacy
+neo4j
+rapidfuzz
+scikit-learn
+sentence-transformers
+transformers
+sentencepiece
+lime
+llama-index
+llama-index-graph-stores-neo4j
+gector
+ipython
